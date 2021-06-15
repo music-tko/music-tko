@@ -2,7 +2,7 @@
 - 👀 I’m interested in theatre and obsessed with computers, whether it's code or gaming.
 - 🌱 I’m currently learning JavaScript & React. HELP!!
 - 💞️ I’m looking to collaborate on open source??
-- 📫 How to reach me, my twitter handle is @Thando85602328. Say Hi!
+- 📫 How to reach me, my twitter handle is @ThayDevToBe. Say Hi!
 
 
 <!---
