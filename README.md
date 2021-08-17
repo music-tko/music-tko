@@ -8,9 +8,9 @@ Current Stack
    -HTML
    -CSS
    -JAVASCRIPT
-   -REACT
+   
 
 Future Stack Goals
-
+  -REACT
   -Nodes.js
   
