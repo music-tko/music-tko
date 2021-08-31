@@ -7,7 +7,7 @@
 Current Stack
    -HTML
    -CSS
-   -JAVASCRIPT
+   -JAVASCRIPT +/-
    
 
 Future Stack Goals
