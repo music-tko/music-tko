@@ -6,7 +6,7 @@
 Current Stack
    -HTML
    -CSS
-   -JAVASCRIPT +/-
+   -JAVASCRIPT 
    -REACT
    
 
