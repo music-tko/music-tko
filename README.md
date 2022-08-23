@@ -5,13 +5,22 @@
 Bear with my mismatched commit graph :O
 
 Current Stack
-   -HTML
-   -CSS
-   -JAVASCRIPT 
-   -REACT
+ HTML
+ CSS
+ TAILWINDCSS
+ BOOTSTRAP
+ JAVASCRIPT
+ JQUERY
+ PHP 
+ WORDPRESS
+ REACT 
+ REDUX 
+ BITBUCKET 
+ GIT
+ NPM
+ FIREBASE
+
    
 
-Future Stack Goals
-  -Nodes.js
-  -MONGODB
+
   
