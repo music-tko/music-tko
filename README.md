@@ -4,7 +4,6 @@
 
 Bear with my mismatched commit graph 
 
-Current Stack
  HTML
  CSS
  TAILWINDCSS
